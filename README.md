@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pins/?username=mo-renike&theme=dark" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike)] 
 
 <!-- [![Morenike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-renike&show_icons=true&theme=dark)]-->
