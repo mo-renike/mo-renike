@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
+My name is Morenike, I am a software developer/Frontend engineer from Lagos Nigeria.
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike&theme=dark" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike)] 
@@ -7,7 +10,7 @@
 
 
 
-My name is Morenike, I
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
