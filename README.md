@@ -2,9 +2,8 @@
 
 My name is Morenike, I am a software developer/Frontend engineer from Lagos Nigeria.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike)](https://github.com/mo-renike/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike%theme=dark)](https://github.com/mo-renike/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mo-renike&repo=github-readme-stats)](https://github.com/mo-renike/github-readme-stats)
 [![Morenike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-renike&show_icons=true&theme=dark)]
 
 
