@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Morenike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-renike)](https://github.com/mo-renike/github-readme-stats)
+[![Morenike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-renike&show_icons=true&theme=)](https://github.com/mo-renike/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike)](https://github.com/mo-renike/github-readme-stats)
 
 My name is Morenike, I
 - 🔭 I’m currently working on ...
