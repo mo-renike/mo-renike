@@ -16,7 +16,7 @@
 
 - 📝 I sometimes write articles on [https://mo-inspired.hashnode.dev/](https://mo-inspired.hashnode.dev/)
 
-- 💬 Ask me about **Music, then HTML, CSS, bootstrap and Javascript**
+- 💬 Ask me about **Music, HTML, CSS, bootstrap and Javascript**
 
 - 📫 How to reach me **herroyalpianist@gmail.com**
 
