@@ -1,26 +1,51 @@
+[Mo's GitHub Banner](https://lh3.googleusercontent.com/XAjrZZrgJWUVEoGzVkn-ghcIlY2gZc8kAcCkm0OcE4bql5xIYs986eKq8StjDXj1OQ0vnF7HLpZWwkK59IFfD0_uszYZi08qLLuBshQSk6AgwPvyWMTMpdrR5_rLTM87ccWKPpbBI6tzUnsAuv-SQg6laDPC5X4TIHPQCmCKfOmyAf5RWrikjIRwoNDrXSF-jltdvPHic6Sm2aUt41tQOY8qDTjd_Py-tJRXgJhNQAOgHsSJYNxcKEHxMPFSajvZmju64oA9-s0yPX36fzgATG6k6CA6eSl6hFeniZaNzEHNY6nWwYEppa_hFLzxg5_F2jCF8oCa4AmF1AYZg2Fnhzl5HnapIvpg6ip_3O30zfdcVBa_UsknIyHP5eU6hU8W1k5-JTiSJV7gOYbRLXEi9UnLS3B4yJCk3aKO2T968K5SYhfW4k4C32I-s54AISqt_CU2vbEa_naJjlN4kOBQMtdC5xBHsO4zQc-Ix1-TdV-Li7_r7KEgolQQIUnGKDbRPJgnI835ZsBaUqWpUF6ARAZzFA-ncOuJbv4BMAVHo4lNa-ztRhfxX3_etS6-Q7BMwOzMdRhMpyXBpEgrmKzBjsTc2Qnq8U3TWDC_RzsNJWuPWEGEEx1mnLOV_FpSbBFubwWMgkp9l14wbZ8viZLBMmUebCrAU6JcEQui_8IeBaYOqQnfowpf6jCYK5UDeQx3TS1uPOZNG9J-aQGSYYKlJGI=w806-h269-no?authuser=0)]
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Morenike</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mo_inspired_" target="blank"><img src="https://img.shields.io/twitter/follow/mo_inspired_?logo=twitter&style=for-the-badge" alt="mo_inspired_" /></a> </p>
 
+``` js
+const fullName = 'Morenike Oyewole';
+const favFood = 'amala';
+let currentLocation = 'Lagos, Nigeria';
+document.write("Hello World");
+
+var status = 
+{ 
+  learning : [JavaScript,React],
+  interests: [web design, frontend development, Collaboration],
+  hobbies: [playing piano, being an introvert, coding, eating junk]
+}
+
+Developer dev = new Developer(Mo);
+
+while(dev.isCoding() && dev.isStuck())  
+{
+  dev.openBrowser();
+  dev.openStackOverFlow();
+  dev.pasteCodeInIde();
+  dev.feelProfessional();
+}
+```
+
 - 🔭 I’m currently working on [50 Javascript Projects in 50days](https://github.com/mo-renike/50days-of-Javascript)
 
-- 🌱 I’m currently learning **React while sharpening my Javascript and CSS skils.**
+<!-- - 🌱 I’m currently learning **React while sharpening my Javascript and CSS skils.** -->
 
-- 👯 I’m looking to collaborate on [Empire](https://github.com/mo-renike/Empire)
+<!-- - 👯 I’m looking to collaborate on [Empire](https://github.com/mo-renike/Empire) -->
 
-- 👨‍💻 All of my projects are available at [https://mo-renike.github.io/portfolio-page/](https://mo-renike.github.io/portfolio-page/)
+- 👨‍💻 All of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/)
 
-- 📝 I sometimes write articles on [https://mo-inspired.hashnode.dev/](https://mo-inspired.hashnode.dev/)
+- 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
 - 💬 Ask me about **Music, HTML, CSS, bootstrap and Javascript**
 
 - 📫 How to reach me **herroyalpianist@gmail.com**
 
-- 📄 Know about my experiences [https://mo-renike.github.io/mo-renike-CV/](https://mo-renike.github.io/mo-renike-CV/)
+- 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/)
 
 - ⚡ Fun fact **I think I'm funny**
 </br>
@@ -47,3 +72,5 @@
 </br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/morenike"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morenike" /></a></p><br><br>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
