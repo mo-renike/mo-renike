@@ -1,4 +1,4 @@
-[Mo's GitHub Banner](https://lh3.googleusercontent.com/XAjrZZrgJWUVEoGzVkn-ghcIlY2gZc8kAcCkm0OcE4bql5xIYs986eKq8StjDXj1OQ0vnF7HLpZWwkK59IFfD0_uszYZi08qLLuBshQSk6AgwPvyWMTMpdrR5_rLTM87ccWKPpbBI6tzUnsAuv-SQg6laDPC5X4TIHPQCmCKfOmyAf5RWrikjIRwoNDrXSF-jltdvPHic6Sm2aUt41tQOY8qDTjd_Py-tJRXgJhNQAOgHsSJYNxcKEHxMPFSajvZmju64oA9-s0yPX36fzgATG6k6CA6eSl6hFeniZaNzEHNY6nWwYEppa_hFLzxg5_F2jCF8oCa4AmF1AYZg2Fnhzl5HnapIvpg6ip_3O30zfdcVBa_UsknIyHP5eU6hU8W1k5-JTiSJV7gOYbRLXEi9UnLS3B4yJCk3aKO2T968K5SYhfW4k4C32I-s54AISqt_CU2vbEa_naJjlN4kOBQMtdC5xBHsO4zQc-Ix1-TdV-Li7_r7KEgolQQIUnGKDbRPJgnI835ZsBaUqWpUF6ARAZzFA-ncOuJbv4BMAVHo4lNa-ztRhfxX3_etS6-Q7BMwOzMdRhMpyXBpEgrmKzBjsTc2Qnq8U3TWDC_RzsNJWuPWEGEEx1mnLOV_FpSbBFubwWMgkp9l14wbZ8viZLBMmUebCrAU6JcEQui_8IeBaYOqQnfowpf6jCYK5UDeQx3TS1uPOZNG9J-aQGSYYKlJGI=w806-h269-no?authuser=0)]
+<img src = 'https://lh3.googleusercontent.com/XAjrZZrgJWUVEoGzVkn-ghcIlY2gZc8kAcCkm0OcE4bql5xIYs986eKq8StjDXj1OQ0vnF7HLpZWwkK59IFfD0_uszYZi08qLLuBshQSk6AgwPvyWMTMpdrR5_rLTM87ccWKPpbBI6tzUnsAuv-SQg6laDPC5X4TIHPQCmCKfOmyAf5RWrikjIRwoNDrXSF-jltdvPHic6Sm2aUt41tQOY8qDTjd_Py-tJRXgJhNQAOgHsSJYNxcKEHxMPFSajvZmju64oA9-s0yPX36fzgATG6k6CA6eSl6hFeniZaNzEHNY6nWwYEppa_hFLzxg5_F2jCF8oCa4AmF1AYZg2Fnhzl5HnapIvpg6ip_3O30zfdcVBa_UsknIyHP5eU6hU8W1k5-JTiSJV7gOYbRLXEi9UnLS3B4yJCk3aKO2T968K5SYhfW4k4C32I-s54AISqt_CU2vbEa_naJjlN4kOBQMtdC5xBHsO4zQc-Ix1-TdV-Li7_r7KEgolQQIUnGKDbRPJgnI835ZsBaUqWpUF6ARAZzFA-ncOuJbv4BMAVHo4lNa-ztRhfxX3_etS6-Q7BMwOzMdRhMpyXBpEgrmKzBjsTc2Qnq8U3TWDC_RzsNJWuPWEGEEx1mnLOV_FpSbBFubwWMgkp9l14wbZ8viZLBMmUebCrAU6JcEQui_8IeBaYOqQnfowpf6jCYK5UDeQx3TS1uPOZNG9J-aQGSYYKlJGI=w806-h269-no?authuser=0' width='100%' alt='banner'>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
 <h3 align="center">A passionate and enthusiastic frontend developer.</h3>
@@ -9,15 +9,14 @@
 
 ``` js
 const fullName = 'Morenike Oyewole';
-const favFood = 'amala';
+const favFood = 'Amala';
 let currentLocation = 'Lagos, Nigeria';
-document.write("Hello World");
 
 var status = 
 { 
-  learning : [JavaScript,React],
-  interests: [web design, frontend development, Collaboration],
-  hobbies: [playing piano, being an introvert, coding, eating junk]
+  learning : [JavaScript, React],
+  interests: [Web Design, Frontend Web Development, Collaboration],
+  hobbies: [Playing Piano, Googling, Online Window-Shopping, Being An Introvert, Coding, Eating Junk]
 }
 
 Developer dev = new Developer(Mo);
@@ -41,25 +40,25 @@ while(dev.isCoding() && dev.isStuck())
 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
-- 💬 Ask me about **Music, HTML, CSS, bootstrap and Javascript**
+- 💬 Ask me about **My all female live band**
 
-- 📫 How to reach me **herroyalpianist@gmail.com**
+- 📫 Send me a mail directly **herroyalpianist@gmail.com**
 
 - 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/)
 
 - ⚡ Fun fact **I think I'm funny**
 </br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I'd like you to Connect with me:</h3>
 <p align="left">
+ <a href="https://twitter.com/mo_inspired_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_inspired_" height="30" width="40" /></a>
 <a href="https://codepen.io/morenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="morenike" height="30" width="40" /></a>
 <a href="https://dev.to/morenike" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="morenike" height="30" width="40" /></a>
-<a href="https://twitter.com/mo_inspired_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_inspired_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/oyewole-morenike-572104120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oyewole-morenike" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/morenike-oyewole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="morenike-oyewolw" height="30" width="40" /></a>
 <a href="https://instagram.com/herroyalpianist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herroyalpianist" height="30" width="40" /></a>
 </p>
 </br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I'm proficient in:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 </br>
@@ -70,7 +69,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-renike&theme=dark" alt="mo-renike" /></p>
 </br>
-<h3 align="left">Support:</h3>
+<h3 align="left">❤ Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/morenike"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="morenike" /></a></p><br><br>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
