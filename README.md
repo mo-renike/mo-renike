@@ -12,7 +12,7 @@ const fullName = 'Morenike Oyewole';
 const favFood = 'Amala';
 let currentLocation = 'Lagos, Nigeria';
 
-var status = 
+let status = 
 { 
   learning : [JavaScript, React],
   interests: [Web Design, Frontend Web Development, Collaboration],
