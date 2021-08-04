@@ -10,6 +10,7 @@
 ``` js
 const fullName = 'Morenike Oyewole';
 const favFood = 'Amala';
+const pronouns = 'She/Her';
 let currentLocation = 'Lagos, Nigeria';
 
 let status = 
