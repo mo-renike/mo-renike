@@ -1,5 +1,4 @@
-
-<img src = 'https://lh3.googleusercontent.com/LgJCGyu8E5jMgY5rNA5MPdpWn9UY3L4fn-zvST94OxqUIkHi0_U_xhcb0nOXxdvqTGYoHSz_R67STERP3ct8Oh1ACoFlVG6YlOFkJf4K61ixZPfVWwubj4BlOZKyrze_QdOxlTm1lprDwPd-B05w7VKMXXVaL4ZCfgh2qwixWYn7KTLoxmD8HQ0QxUlGIm97YeaGUL-5RjdAiTlmQchOQHIPQ4I3N0VMzqIwBdQp6gSwXLJCGdSpX1WYLsj6hy3s-qX8tikecrdhSNFXSMPOdQiTxa9FXjdO1bgaL3UlEYNvkzmMCD-5tcbitx8r98UOkHQCFaMHRRf5yvJ_wtjoZGEcIjD5Tey3f4AttZC5AYRHEYZELFzaczUEbXacnHIKozRnllRT28VHk-DwKnQWc6WtXt0nEKX6-KoK2qjk3n8h4agh21NVqSSDv4Eh2q2pllT9ab3LTk0jvVrsxpyCJXBK4FEs-cBxppr7ykZqcwTVpHsidTlb2eQLGv_tsQS2hpbpOLLegmIX0qvGp-FmPShQLgxj8SVqSLtzEJR9vOo4u9VzBzrC4T3znGmvJO9mY9NUoIlWop7QWAhIG_n5QnjYIKr05J4xx_35vESQYtURmNVcdu2n9OSMU458ix8RRJRr14cNibLzcz2BQADWh4F9RddP2n0nL0F1C19z2vfsar36fZr99_9cue4cysqeJE_hsDlQXkMSsiKTh_QAuC8=w1366-h456-no?authuser=0' width='100%' alt='banner'>
+![Morenike banner](mo.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
 <h3 align="center">A passionate and enthusiastic frontend web developer.</h3>
