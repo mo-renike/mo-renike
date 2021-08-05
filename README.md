@@ -35,7 +35,7 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- - 🌱 I’m currently learning **React while sharpening my Javascript and CSS skils.** -->
 
-<!-- - 👯 I’m looking to collaborate on [Empire](https://github.com/mo-renike/Empire) -->
+👯 I’m looking to collaborate with designers 
 
 - 👨‍💻 All of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/)
 
