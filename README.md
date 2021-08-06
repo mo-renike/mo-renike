@@ -37,7 +37,7 @@ while(dev.isCoding() && dev.isStuck())
 
 👯 I’m looking to collaborate with designers 
 
-- 👨‍💻 All of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/)
+- 👨‍💻 All of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/) constantly improving this 
 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
@@ -45,7 +45,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 📫 Send me a mail directly **herroyalpianist@gmail.com**
 
-- 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/)
+- 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/) - in progress
 
 - ⚡ Fun fact **I think I'm funny**
 </br>
