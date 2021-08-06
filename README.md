@@ -17,7 +17,7 @@ let status =
 { 
   learning : [JavaScript, React],
   interests: [Web Design, Frontend Web Development, Collaboration],
-  hobbies: [Playing Piano, Googling, Online Window-Shopping, Being An Introvert, Coding, Eating Junk]
+  hobbies: [Coding, Online Window-Shopping, Eating Junk, Being An Introvert, Googling(-_-), Playing Piano]
 }
 
 Developer dev = new Developer(Mo);
