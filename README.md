@@ -33,7 +33,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 🔭 I’m currently working on [50 Javascript Projects in 50days](https://github.com/mo-renike/50days-of-Javascript) and [Task Tracker](https://github.com/mo-renike/my-react-app)
 
-- 🌱 I’m currently learning **React while sharpening my Javascript and CSS skils.** 
+- 🌱 I’m learning **React while sharpening my Javascript and CSS skils.** 
 
 👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
 
