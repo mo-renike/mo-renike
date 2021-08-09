@@ -47,7 +47,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/) - in progress
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny 😂😂😂**
 </br>
 <h3 align="left">I'd like you to Connect with me:</h3>
 <p align="left">
