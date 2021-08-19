@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mo_inspired_" target="blank"><img src="https://img.shields.io/twitter/follow/mo_inspired_?logo=twitter&style=for-the-badge" alt="mo_inspired_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mo_renike_" target="blank"><img src="https://img.shields.io/twitter/follow/mo_renike_?logo=twitter&style=for-the-badge" alt="Morenike" /></a> </p>
 
 ``` js
 const fullName = 'Morenike Oyewole';
