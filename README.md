@@ -31,7 +31,7 @@ while(dev.isCoding() && dev.isStuck())
 }
 ```
 
-- 🔭 I’m currently working on [50 Javascript Projects in 50days](https://github.com/mo-renike/50days-of-Javascript) and [Cocktail App](https://github.com/mo-renike/cocktail-app)
+- 🔭 I’m currently working on [50 Javascript Projects in 50days](https://github.com/mo-renike/50days-of-Javascript) and [Bandittude](https://github.com/mo-renike/Bandittude)
 
 - 🌱 I’m learning **React while sharpening my Javascript and CSS skils.** 
 
