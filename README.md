@@ -15,8 +15,8 @@ let currentLocation = 'Lagos, Nigeria';
 
 let status = 
 { 
-  learning : [JavaScript, React],
-  interests: [Web Design, Frontend Web Development, Collaboration],
+  learning : [JavaScript, React, web3],
+  interests: [Web Design, Blockchain Development, Frontend Web Development, Collaboration],
   hobbies: [Coding, Online Window-Shopping, Eating Junk, Being An Introvert, Googling(-_-), Playing Piano]
 }
 
