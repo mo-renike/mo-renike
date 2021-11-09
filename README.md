@@ -15,7 +15,7 @@ let currentLocation = 'Lagos, Nigeria';
 
 let status = 
 { 
-  learning : [JavaScript, React, web3],
+  learning : [JavaScript, React, Web3],
   interests: [Web Design, Blockchain Development, Frontend Web Development, Collaboration],
   hobbies: [Coding, Online Window-Shopping, Eating Junk, Introverting, Googling(-_-), Playing Piano]
 }
@@ -33,11 +33,11 @@ while(dev.isCoding() && dev.isStuck())
 
 - 🔭 I’m currently working on [50 Javascript Projects in 50days](https://github.com/mo-renike/50days-of-Javascript) and [Bandittude](https://github.com/mo-renike/Bandittude)
 
-- 🌱 I’m learning **React while sharpening my Javascript and CSS skils.** 
+- 🌱 I’m curreently learning **React while sharpening my Javascript and CSS skils.** 
 
 👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
 
-- 👨‍💻 All of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/) constantly improving this 
+- 👨‍💻 Most of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/) constantly improving this 
 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
