@@ -15,8 +15,8 @@ let currentLocation = 'Lagos, Nigeria';
 
 let status = 
 { 
-  learning : [JavaScript, React, Web3],
-  interests: [Web Design, Blockchain Development, Frontend Web Development, Collaboration],
+  learning : [JavaScript, React, React-Native, Web3],
+  interests: [Web Design, Blockchain Development, Web Development, Mobile Development],
   hobbies: [Coding, Online Window-Shopping, Eating Junk, Introverting, Googling(-_-), Playing Piano]
 }
 
@@ -31,9 +31,9 @@ while(dev.isCoding() && dev.isStuck())
 }
 ```
 
-- 🔭 I’m currently working on [50 Javascript Projects in 50days](https://github.com/mo-renike/50days-of-Javascript) and [Bandittude](https://github.com/mo-renike/Bandittude)
+- 🔭 I’m currently working on building a React Native app
 
-- 🌱 I’m curreently learning **React while sharpening my Javascript and CSS skils.** 
+- 🌱 I’m currently learning **React and React Native.** 
 
 👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
 
@@ -41,15 +41,15 @@ while(dev.isCoding() && dev.isStuck())
 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
-- 💬 Ask me about **My all female live band**
+- 💬 Ask me about ** Music **
 
 - 📫 Send me a mail directly **herroyalpianist@gmail.com**
 
-- 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/) - in progress
+<!-- - 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/) - in progress -->
 
 - ⚡ Fun fact **I think I'm funny 😂😂😂**
 </br>
-<h3 align="left">I'd like you to Connect with me:</h3>
+<h3 align="left">If You'd like to Connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/mo_inspired_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_inspired_" height="30" width="40" /></a>
 <a href="https://codepen.io/morenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="morenike" height="30" width="40" /></a>
