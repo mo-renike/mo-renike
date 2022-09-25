@@ -1,7 +1,7 @@
 ![Morenike banner](mo.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
-<h3 align="center">A Results-oriented, innovative Front End Web Developer, dedicated to creating and optimizing interactive, user-friendly, and feature-rich websites from start to finish, and successfully managing a team of other software professionals.</h3>
+<h3 align="center">A Results-oriented, innovative Front End Web Developer, dedicated to creating and optimizing interactive, user-friendly, and feature-rich websites from start to finish.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" /> </p>
 
