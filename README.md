@@ -12,7 +12,7 @@ I have a serious passion for UI effects, animations, and creating dynamic user i
 
 ``` js
 const fullName = 'Morenike Oyewole';
-const favFood = 'Amala';
+const favFoods = 'Amala', 'pasta';
 const pronouns = 'She/Her';
 let currentLocation = 'Lagos, Nigeria';
 
