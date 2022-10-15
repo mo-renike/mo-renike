@@ -1,6 +1,6 @@
 ![Morenike banner](mo.png)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
 <h3 align="center">I'm A Results-oriented, innovative Front End Web Developer with proven experience in creating and maintaining a better code base for reusability. I'm dedicated to creating and optimizing interactive, user-friendly, and feature-rich websites from start to finish.
 
 I like to work closely with designers to take wireframes from conception to implementation and design and improve user interfaces
