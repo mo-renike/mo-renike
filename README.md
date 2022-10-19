@@ -14,7 +14,7 @@ I have a serious passion for UI effects, animations, and creating dynamic user i
 const fullName = 'Morenike Oyewole';
 const favFoods = 'Amala', 'pasta';
 const pronouns = 'She/They';
-let currentLocation = 'Lagos, Nigeria';
+let currentLocation = 'West Africa';
 
 let status = 
 { 
