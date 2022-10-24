@@ -19,7 +19,7 @@ let currentLocation = 'West Africa';
 let status = 
 { 
   learning : [JavaScript, React, React-Native, Web3],
-  interests: [Web Design, Blockchain Development, Web Development, Mobile Development],
+  interests: [Web Design, Blockchain Development, Mobile Development],
   hobbies: [Coding, Online Window-Shopping, Eating Junk, Introverting, Googling(-_-), Playing Piano]
 }
 
