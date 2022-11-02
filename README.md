@@ -34,9 +34,9 @@ while(dev.isCoding() && dev.isStuck())
 }
 ```
 
-- 🔭 I’m currently working on building a React Native app
+- 🔭 I’m currently working on Everything Amala
 
-- 🌱 I’m currently learning **React and React Native.** 
+- 🌱 I’m currently learning Software Engineering at AltSchool Africa
 
 👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
 
