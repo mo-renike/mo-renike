@@ -10,6 +10,8 @@ I have a serious passion for UI effects, animations, and creating dynamic user i
 
 <p align="left"> <a href="https://twitter.com/mo_renike_" target="blank"><img src="https://img.shields.io/twitter/follow/mo_renike_?logo=twitter&style=for-the-badge" alt="Morenike" /></a> </p>
 
+[![@morenike's Holopin board](https://holopin.me/morenike)](https://holopin.io/@morenike)
+
 ``` js
 const fullName = 'Morenike Oyewole';
 const favFoods = 'Amala', 'pasta';
