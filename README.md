@@ -1,10 +1,10 @@
 ![Morenike banner](mo.png)
 
 <h1 align="center">Hii there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo'</h1>
-<h3 align="center">I'm A Results-oriented, innovative Front End Web Developer with proven experience in creating and maintaining a clean code base for reusability. I'm dedicated to creating and optimizing interactive, user-friendly, and feature-rich websites from start to finish.
+<h3 align="center">I'm A Front-End Developer with proven experience focusing on building fast, scalable frontend applications with a focus on customer satisfaction using a mobile-first approach. 
 
 I like to work closely with designers to take wireframes from conception to implementation and design and improve user interfaces
-I have a serious passion for UI effects, animations, and creating dynamic user interfaces and experiences.</h3>
+I have a serious passion for minimalistic UI, animations, and creating dynamic user interfaces and experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" /> </p>
 
