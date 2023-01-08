@@ -56,11 +56,11 @@ while(dev.isCoding() && dev.isStuck())
 </br>
 <h3 align="left">If You'd like to Connect with me:</h3>
 <p align="left">
- <a href="https://twitter.com/mo_inspired_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_inspired_" height="30" width="40" /></a>
+ <a href="https://twitter.com/mo_renike_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_inspired_" height="30" width="40" /></a>
 <a href="https://codepen.io/morenike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="morenike" height="30" width="40" /></a>
 <a href="https://dev.to/morenike" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="morenike" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/morenike-oyewole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oyewole-morenike" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/morenike-oyewole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="morenike-oyewolw" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/morenike-oyewole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="morenike" height="30" width="40" /></a>
 <a href="https://instagram.com/herroyalpianist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herroyalpianist" height="30" width="40" /></a>
 </p>
 </br>
