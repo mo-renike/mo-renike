@@ -20,9 +20,9 @@ let currentLocation = 'Lagos, Nigeria';
 
 let status = 
 { 
-  learning : [JavaScript, React, React-Native, Web3],
+  learning : [JavaScript, React, React-Native],
   interests: [Web Design, Blockchain Development, Mobile Development],
-  hobbies: [Coding, Online Window-Shopping, Eating Junk, Introverting, Googling(-_-), Playing Piano]
+  hobbies: [Coding, Online Window-Shopping, Dressing Up, Eating Junk, Introverting, Googling(-_-), Playing Piano]
 }
 
 Developer dev = new Developer(Mo);
