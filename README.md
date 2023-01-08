@@ -16,7 +16,7 @@ I have a serious passion for minimalistic UI, animations, and creating dynamic u
 const fullName = 'Morenike Oyewole';
 const favFoods = 'Amala', 'pasta';
 const pronouns = 'She/They';
-let currentLocation = 'West Africa';
+let currentLocation = 'Lagos, Nigeria';
 
 let status = 
 { 
