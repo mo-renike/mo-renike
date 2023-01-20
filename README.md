@@ -40,6 +40,7 @@ while(dev.isCoding() && dev.isStuck())
 
 - 🌱 I’m currently learning Software Engineering at AltSchool Africa
 
+
 👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
 
 - 👨‍💻 Most of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/) constantly improving this 
