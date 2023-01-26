@@ -43,15 +43,14 @@ while(dev.isCoding() && dev.isStuck())
 
 👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
 
-- 👨‍💻 Most of my projects are available at [My portfolio website](https://mo-renike.github.io/portfolio-page/) constantly improving this 
-
+- 👨‍💻 Most of my projects are available at [My portfolio website](https://portfolio-mo-renike.vercel.app/) 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
 - 💬 Ask me about ** Music **
 
 - 📫 Send me a mail directly **herroyalpianist@gmail.com**
 
-<!-- - 📄 Know about my experiences [my CV](https://mo-renike.github.io/mo-renike-CV/) - in progress -->
+
 
 - ⚡ Fun fact **I think I'm funny 😂😂😂**
 </br>
