@@ -31,7 +31,7 @@ while(dev.isCoding() && dev.isStuck())
 {
   dev.openBrowser();
   dev.openStackOverFlow();
-  dev.pasteCodeInIde();
+  dev.findSolution();
   dev.feelProfessional();
 }
 ```
