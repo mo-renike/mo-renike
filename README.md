@@ -46,7 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 - 👨‍💻 Most of my projects are available at [My portfolio website](https://portfolio-mo-renike.vercel.app/) 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
-- 💬 Ask me about ** Music **
+- 💬 Ask me about ** My favorite Music **
 
 - 📫 Send me a mail directly **herroyalpianist@gmail.com**
 
