@@ -13,7 +13,7 @@ I have a serious passion for minimalistic UI, animations, and creating dynamic u
 [![@morenike's Holopin board](https://holopin.me/morenike)](https://holopin.io/@morenike)
 
 ``` js
-const fullName = 'Morenike Oyewole';
+const username = 'Mo';
 const favFoods = 'Amala', 'pasta';
 const pronouns = 'She/They';
 let currentLocation = 'Lagos, Nigeria';
