@@ -1,7 +1,7 @@
 ![Morenike banner](mo.png)
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo</h1>
-<h3 align="center">I'm a Frontend developer with a passion for building solutions. I love designing visually appealing interfaces and ensuring that the end-user experience is seamless.</h3>
+<h3 align="center">I'm a Software engineer with a passion for building solutions. I love designing visually appealing interfaces and ensuring that the end-user experience is seamless.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" /> </p>
 
@@ -13,13 +13,13 @@
 const username = 'Mo';
 const favFoods = 'Amala', 'pasta';
 const pronouns = 'She/They';
-let currentLocation = 'Lagos, Nigeria';
+let currentLocation = 'West Africa';
 
 let status = 
 { 
   learning : [JavaScript, React, React-Native],
-  interests: [Web Design, Blockchain Development, Mobile Development],
-  hobbies: [Coding, Online Window-Shopping, Dressing Up, Eating Junk, Introverting, Googling(-_-), Playing Piano]
+  interests: [Web Design, Blockchain Development, Mobile Development, cryptocurrency,],
+  hobbies: [Coding, Online Window-Shopping, Dressing Up, Eating Junk, Networking, Googling(-_-), Playing Piano]
 }
 
 Developer dev = new Developer(Mo);
@@ -33,19 +33,18 @@ while(dev.isCoding() && dev.isStuck())
 }
 ```
 
-- 🔭 I’m currently working on Everything Amala
+- 🔭 I’m currently working at Fluna
 
-- 🌱 I’m currently learning Software Engineering at AltSchool Africa
+- 🌱 I have a  Software Engineering diploma from AltSchool Africa
 
-
-👯 I'm looking to collaborate/work with individuals, companies, agencies that aims to solve real life problems with their awesome product or service ideas.
+👯 I'm looking to collaborate/work with individuals, companies, and agencies that aim to solve real-life problems with their awesome product or service ideas.
 
 - 👨‍💻 Most of my projects are available at [My portfolio website](https://portfolio-mo-renike.vercel.app/) 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
 - 💬 Ask me about ** My favorite Music **
 
-- 📫 Send me a mail directly **herroyalpianist@gmail.com**
+- 📫 Send me a mail directly at **morenikeoyewole.o@gmail.com**
 
 
 
