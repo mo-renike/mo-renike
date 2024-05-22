@@ -48,7 +48,7 @@ while(dev.isCoding() && dev.isStuck())
 
 
 
-- ⚡ Fun fact **I think I'm funny 😂😂😂**
+- ⚡ Fun fact **I play multiple musical instruments **
 </br>
 <h3 align="left">If You'd like to Connect with me:</h3>
 <p align="left">
