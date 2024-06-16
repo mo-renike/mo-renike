@@ -17,9 +17,9 @@ let currentLocation = 'West Africa';
 
 let status = 
 { 
-  learning : [JavaScript, React, React-Native],
-  interests: [Web Design, Blockchain Development, Mobile Development, cryptocurrency,],
-  hobbies: [Coding, Online Window-Shopping, Dressing Up, Eating Junk, Networking, Googling(-_-), Playing Piano]
+  learning : [TYpescript, React, AI],
+  interests: [Software Engineering, Artificial Intelligence, Digital Art],
+  hobbies: [Coding, Online Window-Shopping, Dressing Up, Eating Junk, Googling(-_-), Playing Piano]
 }
 
 Developer dev = new Developer(Mo);
@@ -27,7 +27,7 @@ Developer dev = new Developer(Mo);
 while(dev.isCoding() && dev.isStuck())  
 {
   dev.openBrowser();
-  dev.openStackOverFlow();
+  dev.openChatGPT();
   dev.findSolution();
   dev.feelProfessional();
 }
