@@ -39,7 +39,7 @@ while(dev.isCoding() && dev.isStuck())
 
 👯 I'm looking to collaborate/work with individuals, companies, and agencies that aim to solve real-life problems with their awesome product or service ideas.
 
-- 👨‍💻 Most of my projects are available at [My portfolio website](https://portfolio-mo-renike.vercel.app/) 
+- 👨‍💻 Most of my projects are available at [My portfolio website](https://portfolio-2l6tyewx9-morenikes-projects.vercel.app/) 
 - 📝 I sometimes write articles on [hashnode](https://mo-inspired.hashnode.dev/)
 
 - 💬 Ask me about ** My favorite Music **
