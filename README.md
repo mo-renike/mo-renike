@@ -16,7 +16,6 @@
 [![@morenike's Holopin board](https://holopin.me/morenike)](https://holopin.io/@morenike)
 
 ```javascript
-
 const profile = {
   name: "Morenike Oyewole",
   location: "West Africa",
@@ -31,7 +30,6 @@ while (true) {
     console.log("Exploring the intersection of technology and intelligence!");
   }
 }
-
 ```
 
 ---
@@ -47,7 +45,7 @@ while (true) {
 ### 🛠️ Skills & Tools
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS (Sass), MUI  
-- **Backend:** Node.js, GraphQL, ExpressJs,   
+- **Backend:** Node.js, GraphQL, ExpressJs  
 - **Testing:** Jest, React Testing Library  
 - **Design Systems:** Storybook, TailwindCSS  
 - **Other Tools:** Git, AWS CLI
@@ -96,20 +94,33 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 
 ---
 
+## 📊 Analytics & Mood
 
----
-
-## 🏆 Achievements & Fun Stats
-
-### 🐍 Snake Game
-Watch my contributions come alive!  
-![snake gif](https://github.com/mo-renike/mo-renike/blob/output/github-contribution-grid-snake.svg)
+<!-- Two-column layout for WakaTime + Spotify -->
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⏱ WakaTime — Last 7 Days</h3>
+      <em>Tracking my coding rhythm!</em><br/>
+      <a href="https://wakatime.com/@mo_renike">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mo_renike&layout=compact&hide_title=true&bg_color=00000000" alt="WakaTime Stats"/>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🎧 Currently Vibing</h3>
+      <em>What I’m listening to right now</em><br/>
+      <a href="https://open.spotify.com/user/31wijinrxmdrtem5hlcsm6lgbarq" target="_blank">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wijinrxmdrtem5hlcsm6lgbarq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mo-renike&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🎧 Currently Vibing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wijinrxmdrtem5hlcsm6lgbarq?si=KFEXZvLMSqWT5RTAGq1pfQ&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+### 🐍 GitHub Snake Game
+![snake gif](https://github.com/mo-renike/mo-renike/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
