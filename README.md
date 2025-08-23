@@ -96,6 +96,23 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 
 ---
 
+
+---
+
+## 🏆 Achievements & Fun Stats
+
+### 🐍 Snake Game
+Watch my contributions come alive!  
+![snake gif](https://github.com/mo-renike/mo-renike/blob/output/github-contribution-grid-snake.svg)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mo-renike&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎧 Currently Vibing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wijinrxmdrtem5hlcsm6lgbarq?si=KFEXZvLMSqWT5RTAGq1pfQ&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ### 📊 GitHub Stats
 
 <p>
