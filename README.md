@@ -117,10 +117,7 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 </table>
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mo-renike&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🐍 GitHub Snake Game
-![snake gif](https://github.com/mo-renike/mo-renike/blob/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mo-renike&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
