@@ -19,19 +19,14 @@
 const profile = {
   name: "Morenike Oyewole",
   location: "West Africa",
-  pronouns: "She/They",
-
   learning: ["Node.js", "Express.js", "Prisma ORM", "SQL", "AI Integration"],
-
   interests: [
     "Software Engineering",
     "Artificial Intelligence",
     "Digital Art",
     "Human-Centered Design",
   ],
-
   hobbies: ["Coding", "Playing Piano", "Dressing Up", "Window Shopping"],
-
   techStack: {
     languagesAndFrameworks: [
       "JavaScript (ES6+)",
