@@ -21,9 +21,7 @@ const profile = {
   location: "West Africa",
   pronouns: "She/They",
 
-
-  learning: ["Node.js", "Express", "Prisma ORM", "SQL", "AI Integration"],
-
+  learning: ["Node.js", "Express.js", "Prisma ORM", "SQL", "AI Integration"],
 
   interests: [
     "Software Engineering",
@@ -32,43 +30,48 @@ const profile = {
     "Human-Centered Design",
   ],
 
-  
   hobbies: ["Coding", "Playing Piano", "Dressing Up", "Window Shopping"],
 
-  
   techStack: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
+    languagesAndFrameworks: [
       "JavaScript (ES6+)",
-      "Tailwind CSS",
-      "SCSS",
-      "Material UI",
-      "Storybook",
-      "Jest",
-    ],
-    backend: [
+      "TypeScript",
       "Node.js",
       "Express.js",
-      "NestJS",
-      "Prisma ORM",
-      "PostgreSQL",
-      "MongoDB",
-      "GraphQL",
+      "React",
+      "Next.js",
+    ],
+    databases: ["MongoDB", "PostgreSQL", "Prisma ORM"],
+    frontendTools: [
+      "Tailwind CSS",
+      "Material UI",
+      "Chakra UI",
+      "Storybook",
+      "Figma (UI/UX Implementation)",
+    ],
+    backendAndDevOps: [
       "REST APIs",
-      "AWS",
+      "GraphQL APIs",
+      "Google Cloud Functions",
+      "Vercel",
+      "Render",
+      "AWS CLI",
+    ],
+    testingAndVersionControl: [
+      "Jest",
+      "React Testing Library",
+      "Git",
+      "GitHub Actions",
+    ],
+    softSkills: [
+      "Ownership",
+      "Problem Solving",
+      "Collaboration",
+      "Product Thinking",
+      "Agile Workflow",
     ],
   },
 };
-
-
-while (true) {
-  if (profile.learning.includes("AI Integration")) {
-    console.log("Exploring the intersection of technology and intelligence 🤖✨");
-    break; // Prevent infinite loop from crashing your console!
-  }
-}
 
 ```
 
