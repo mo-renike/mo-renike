@@ -20,16 +20,56 @@ const profile = {
   name: "Morenike Oyewole",
   location: "West Africa",
   pronouns: "She/They",
-  learning: ["Node.js", "Express", "Prisma ORM", "SQL", "AI integration"],
-  interests: ["Software Engineering", "Artificial Intelligence", "Digital Art"],
+
+
+  learning: ["Node.js", "Express", "Prisma ORM", "SQL", "AI Integration"],
+
+
+  interests: [
+    "Software Engineering",
+    "Artificial Intelligence",
+    "Digital Art",
+    "Human-Centered Design",
+  ],
+
+  
   hobbies: ["Coding", "Playing Piano", "Dressing Up", "Window Shopping"],
+
+  
+  techStack: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript (ES6+)",
+      "Tailwind CSS",
+      "SCSS",
+      "Material UI",
+      "Storybook",
+      "Jest",
+    ],
+    backend: [
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "Prisma ORM",
+      "PostgreSQL",
+      "MongoDB",
+      "GraphQL",
+      "REST APIs",
+      "AWS",
+    ],
+  },
 };
 
+
 while (true) {
-  if (profile.learning.includes("AI integration")) {
-    console.log("Exploring the intersection of technology and intelligence!");
+  if (profile.learning.includes("AI Integration")) {
+    console.log("Exploring the intersection of technology and intelligence 🤖✨");
+    break; // Prevent infinite loop from crashing your console!
   }
 }
+
 ```
 
 ---
