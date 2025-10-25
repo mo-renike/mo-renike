@@ -79,7 +79,8 @@ const profile = {
 
 ### ✨ Current Focus
 
-- 🔭 Working at **DoMeASolid** as a Software Engineer, building fast and scalable solutions.
+- 🔭 Building at **DoMeASolid** and The People practice as a Software Engineer.
+- Solo-building home Music School -  A platform to match qualified music teachers with clients
 - 🌱 Deepening expertise in **AI**, **Backend Development**, and **Product Design**.
 - 👯 Open to collaborations on innovative, impactful projects that solve real-world problems.
 
