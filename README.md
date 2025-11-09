@@ -34,7 +34,7 @@ const profile = {
       "Node.js",
       "Express.js",
       "React",
-      "Next.js",
+      "Next.js", "Nest.js"
     ],
     databases: ["MongoDB", "PostgreSQL", "Prisma ORM"],
     frontendTools: [
@@ -50,7 +50,7 @@ const profile = {
       "Google Cloud Functions",
       "Vercel",
       "Render",
-      "AWS CLI",
+      "AWS",
     ],
     testingAndVersionControl: [
       "Jest",
@@ -83,8 +83,8 @@ const profile = {
 
 ### 🛠️ Skills & Tools
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS (Sass), MUI  
-- **Backend:** Node.js, GraphQL, ExpressJs  
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **Backend:** Node.js, GraphQL, ExpressJs, NestJs
 - **Testing:** Jest, React Testing Library  
 - **Design Systems:** Storybook, TailwindCSS  
 - **Other Tools:** Git, AWS CLI
