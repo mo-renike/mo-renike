@@ -19,14 +19,14 @@
 const profile = {
   name: "Morenike Oyewole",
   location: "West Africa",
-  learning: ["Node.js", "Express.js", "Prisma ORM", "SQL", "AI Integration"],
+  learning: ["AI Engineering",],
   interests: [
     "Software Engineering",
     "Artificial Intelligence",
-    "Digital Art",
-    "Human-Centered Design",
+    "Farming",
+    "Music",
   ],
-  hobbies: ["Coding", "Playing Piano", "Dressing Up", "Window Shopping"],
+  hobbies: ["Coding", "Playing Piano", "Dressing Up", "Baking"],
   techStack: {
     languagesAndFrameworks: [
       "JavaScript (ES6+)",
@@ -34,7 +34,8 @@ const profile = {
       "Node.js",
       "Express.js",
       "React",
-      "Next.js", "Nest.js"
+      "Next.js",
+      "Nest.js"
     ],
     databases: ["MongoDB", "PostgreSQL", "Prisma ORM"],
     frontendTools: [
@@ -42,7 +43,7 @@ const profile = {
       "Material UI",
       "Chakra UI",
       "Storybook",
-      "Figma (UI/UX Implementation)",
+      "Figma",
     ],
     backendAndDevOps: [
       "REST APIs",
