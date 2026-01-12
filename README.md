@@ -8,8 +8,8 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/mo_renike_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mo_renike_?logo=twitter&style=for-the-badge" alt="Morenike Twitter" />
+  <a href="https://www.tiktok.com/@mo_renike__" target="blank">
+    <img src="https://img.shields.io/tiktok/follow/mo_renike__?logo=tiktok&style=for-the-badge" alt="Morenike Tiktok" />
   </a>
 </p>
 
