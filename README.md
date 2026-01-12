@@ -13,9 +13,9 @@
   target="_blank"
   rel="noopener noreferrer"
   aria-label="Follow Morenike on TikTok"
->
+> Check out Morenike on TikTok!
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg"
+    src="https://img.freepik.com/premium-photo/tiktok-logo_1080029-103.jpg?semt=ais_hybrid&w=740&q=80"
     alt="TikTok"
     width="32"
     height="32"
