@@ -8,9 +8,19 @@
 </p>
 
 <p align="left">
-  <a href="https://www.tiktok.com/@mo_renike__" target="blank">
-    <img src="https://img.shields.io/tiktok/follow/mo_renike__?logo=tiktok&style=for-the-badge" alt="Morenike Tiktok" />
-  </a>
+ <a
+  href="https://www.tiktok.com/@mo_renike__"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Follow Morenike on TikTok"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg"
+    alt="TikTok"
+    width="32"
+    height="32"
+  />
+</a>
 </p>
 
 [![@morenike's Holopin board](https://holopin.me/morenike)](https://holopin.io/@morenike)
