@@ -1,7 +1,7 @@
 ![Morenike Oyewole - Software Engineer Banner](mo.png)
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo
-### A full stack Engineer and an aspiring product designer passionate about creating impactful solutions. I specialize in designing and building visually stunning and user-friendly applications, and I’m currently exploring how AI can enhance modern web experiences.
+### A full stack Engineer excited about creating impactful solutions. I specialize in designing and building visually stunning and user-friendly applications, and I’m currently exploring how AI can enhance modern web experiences.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" />
