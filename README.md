@@ -1,7 +1,9 @@
 ![Morenike Oyewole - Software Engineer Banner](mo.png)
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo
-### A full stack Engineer excited about creating impactful solutions. I specialize in designing and building visually stunning and user-friendly applications, and I’m currently exploring how AI can enhance modern web experiences.
+### I build tools that solve real-world problems. With about 5 years of experience in software engineering working  with React, Next.js, TypeScript, and Node.js, I focus on integrating AI into community-driven products. Right now, I’m developing platforms that empower informal businesses and make educational sponsorship more accessible and efficient.
+
+Outside of work, you’ll usually find me at the piano, working on a crochet project, baking something sweet, or taking care of my indoor plants. I started in music before transitioning into engineering, and that background still influences how I think. I approach software with a sense of structure, rhythm, and iteration. The best products aren’t just functional, they’re well put together and feel right to use..
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" />
