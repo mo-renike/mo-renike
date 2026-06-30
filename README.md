@@ -38,7 +38,7 @@ const profile = {
     "Farming",
     "Music",
   ],
-  hobbies: ["Coding", "Playing Piano", "Dressing Up", "Baking"],
+  hobbies: ["Gardening", "Playing Piano", "Painting", "Baking"],
   techStack: {
     languagesAndFrameworks: [
       "JavaScript (ES6+)",
@@ -87,8 +87,8 @@ const profile = {
 
 ### ✨ Current Focus
 
-- 🔭 Building at **DoMeASolid** and The People practice as a Software Engineer.
-- Solo-building home Music School -  A platform to match qualified music teachers with clients
+- 🔭 Building at The People practice as a Full stack Engineer.
+- Solo-building Afara, RateAm and Home Music School
 - 🌱 Deepening expertise in **AI**, **Backend Development**, and **Product Design**.
 - 👯 Open to collaborations on innovative, impactful projects that solve real-world problems.
 
