@@ -152,18 +152,13 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>⏱ WakaTime — Last 7 Days</h3>
-      <em>Tracking my coding rhythm!</em><br/>
-      <a href="https://wakatime.com/@mo_renike">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mo_renike&layout=compact&hide_title=true&bg_color=00000000" alt="WakaTime Stats"/>
-      </a>
+      <figure><embed src="https://wakatime.com/share/@mo_renike/211c7e79-c099-48a7-bfee-bb14715ff363.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@mo_renike/e4b446a7-dd0b-4999-b47b-03067601fec0.svg"></embed></figure>
     </td>
     <td valign="top" width="50%">
       <h3>🎧 Currently Vibing</h3>
       <em>What I’m listening to right now</em><br/>
-      <a href="https://open.spotify.com/user/31wijinrxmdrtem5hlcsm6lgbarq" target="_blank">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wijinrxmdrtem5hlcsm6lgbarq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing"/>
-      </a>
+     [Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31wijinrxmdrtem5hlcsm6lgbarq)
     </td>
   </tr>
 </table>
