@@ -1,4 +1,4 @@
-![Morenike Oyewole - Software Engineer Banner](mo.png)
+![Morenike Oyewole - Software Engineer Banner](github-header.png)
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo
 ### I build tools that solve real-world problems. With about 5 years of experience in software engineering working  with React, Next.js, TypeScript, and Node.js, I focus on integrating AI into community-driven products. Right now, I’m developing platforms that empower informal businesses and make educational sponsorship more accessible and efficient.
