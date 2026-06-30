@@ -148,18 +148,29 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 
 ## 📊 Analytics & Mood
 
-<!-- Two-column layout for WakaTime + Spotify -->
 <table>
   <tr>
     <td valign="top" width="50%">
-      <figure><embed src="https://wakatime.com/share/@mo_renike/211c7e79-c099-48a7-bfee-bb14715ff363.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@mo_renike/e4b446a7-dd0b-4999-b47b-03067601fec0.svg"></embed></figure>
+      <h3 align="center">⏱ WakaTime — Coding Activity</h3>
+      <p align="center"><em>Tracking my coding rhythm!</em></p>
+      <div align="center">
+     <figure>
+  <img src="https://wakatime.com/share/@mo_renike/211c7e79-c099-48a7-bfee-bb14715ff363.svg" alt="WakaTime Stats" />
+</figure>
+<figure>
+  <img src="https://wakatime.com/share/@mo_renike/e4b446a7-dd0b-4999-b47b-03067601fec0.svg" alt="WakaTime Stats" />
+</figure>
+      </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>🎧 Currently Vibing</h3>
-      <em>What I’m listening to right now</em><br/>
-     [Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31wijinrxmdrtem5hlcsm6lgbarq)
-    </td>
+ <td valign="top" width="50%">
+  <h3 align="center">🎧 Currently Vibing</h3>
+  <p align="center"><em>What I'm listening to right now</em></p>
+    <div align="center">
+        <a href="https://open.spotify.com/user/31wijinrxmdrtem5hlcsm6lgbarq" target="_blank">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wijinrxmdrtem5hlcsm6lgbarq" alt="Spotify Recently Played" width="100%" />
+        </a>
+      </div>
+</td>
   </tr>
 </table>
 
