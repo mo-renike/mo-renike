@@ -148,7 +148,7 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 
 ## 📊 Analytics & Mood
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">⏱ WakaTime — Coding Activity</h3>
@@ -174,20 +174,9 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
   </tr>
 </table>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mo-renike&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-renike&layout=compact&theme=transparent" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mo-renike&show_icons=true&theme=transparent" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mo-renike&theme=dark" />
