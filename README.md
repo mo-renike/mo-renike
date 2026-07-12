@@ -31,7 +31,7 @@ Outside of work, you’ll usually find me at the piano, working on a crochet pro
 const profile = {
   name: "Morenike Oyewole",
   location: "West Africa",
-  learning: ["AI Engineering",],
+  learning: ["AI Engineering", "Java"],
   interests: [
     "Software Engineering",
     "Artificial Intelligence",
@@ -41,13 +41,14 @@ const profile = {
   hobbies: ["Gardening", "Playing Piano", "Painting", "Baking"],
   techStack: {
     languagesAndFrameworks: [
+      "Java",
       "JavaScript (ES6+)",
       "TypeScript",
       "Node.js",
       "Express.js",
       "React",
       "Next.js",
-      "Nest.js"
+      "Nest.js",
     ],
     databases: ["MongoDB", "PostgreSQL", "Prisma ORM"],
     frontendTools: [
@@ -97,7 +98,7 @@ const profile = {
 ### 🛠️ Skills & Tools
 
 - **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Backend:** Node.js, GraphQL, ExpressJs, NestJs
+- **Backend:** Node.js, GraphQL, ExpressJs, NestJs, Java
 - **Testing:** Jest, React Testing Library  
 - **Design Systems:** Storybook, TailwindCSS  
 - **Other Tools:** Git, AWS CLI
