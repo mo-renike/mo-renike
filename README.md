@@ -1,9 +1,14 @@
 ![Morenike Oyewole - Software Engineer Banner](github-header.png)
 
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo
-### I build tools that solve real-world problems. With about 5 years of experience in software engineering working  with React, Next.js, TypeScript, and Node.js, I focus on integrating AI into community-driven products. Right now, I’m developing platforms that empower informal businesses and make educational sponsorship more accessible and efficient.
 
-Outside of work, you’ll usually find me at the piano, working on a crochet project, baking something sweet, or taking care of my indoor plants. I started in music before transitioning into engineering, and that background still influences how I think. I approach software with a sense of structure, rhythm, and iteration. The best products aren’t just functional, they’re well put together and feel right to use..
+### I build tools that solve real-world problems.
+
+With over 5 years of experience in full-stack software engineering, working with React, Next.js, TypeScript, and Node.js, I enjoy turning ideas into practical, user-focused products. I'm currently building **RateAm**, a business discovery and review platform, and **SignalFly**, an application monitoring and developer feedback platform, while exploring how AI can power more intelligent software experiences.
+
+I'm passionate about building scalable applications, solving meaningful problems, and growing at the intersection of software engineering, AI, and product development.
+
+Outside of work, you'll usually find me at the piano, working on a crochet project, baking something sweet, or taking care of my indoor plants. I started in music before transitioning into engineering, and that background still influences how I think. I approach software with a sense of structure, rhythm, and iteration. The best products aren't just functional; they're well put together and feel right to use.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mo-renike&label=Profile%20views&color=0e75b6&style=flat" alt="mo-renike" />
@@ -32,9 +37,11 @@ const profile = {
   name: "Morenike Oyewole",
   location: "West Africa",
   learning: ["AI Engineering", "Java"],
+  building: ["RateAm", "SignalFly", "Afara"],
   interests: [
     "Software Engineering",
     "Artificial Intelligence",
+    "Product Development",
     "Farming",
     "Music",
   ],
@@ -65,6 +72,8 @@ const profile = {
       "Vercel",
       "Render",
       "AWS",
+      "Docker",
+      "GitHub Actions",
     ],
     testingAndVersionControl: [
       "Jest",
@@ -81,27 +90,57 @@ const profile = {
     ],
   },
 };
-
 ```
 
 ---
 
 ### ✨ Current Focus
 
-- 🔭 Building at The People practice as a Full stack Engineer.
-- Solo-building Afara, RateAm and Home Music School
-- 🌱 Deepening expertise in **AI**, **Backend Development**, and **Product Design**.
-- 👯 Open to collaborations on innovative, impactful projects that solve real-world problems.
+- 🔭 Working as a Full-Stack Engineer at The People Practice.
+- 🚀 Building **[RateAm](https://rateam-ruby.vercel.app/)**, a platform that helps people discover businesses, explore services, and share reviews.
+- 🛠️ Building **[SignalFly](https://signalfly-ai.vercel.app/)**, an application monitoring and developer feedback platform.
+- 💡 Developing products that combine solid software engineering with practical AI capabilities.
+- 🌱 Deepening my expertise in **AI Engineering**, **Backend Architecture**, **System Design**, and **Product Development**.
+- 👯 Open to collaborations on innovative products, AI-powered applications, and impactful engineering projects.
+
+---
+
+### 🚀 Things I'm Building
+
+#### [RateAm](https://rateam-ruby.vercel.app/)
+
+A business discovery and review platform designed to help people find businesses, explore their services, and make informed decisions through customer reviews.
+
+- 🔎 Business discovery and contextual search.
+- ⭐ Business ratings and customer reviews.
+- 🏢 Business profiles with services, social links, and contact information.
+- 📍 Location-aware business information and public-facing pages.
+
+**Tech stack:** Next.js, React, TypeScript, Chakra UI, Clerk, TanStack Query, Prisma, PostgreSQL, and S3 storage.
+
+#### [SignalFly](https://signalfly-ai.vercel.app/)
+
+An application monitoring and developer feedback platform designed to help developers monitor application health, identify incidents, and collect contextual feedback.
+
+- 📡 Application health monitoring and automated checks.
+- 🚨 Incident detection, tracking, and recovery.
+- ⚙️ Background job processing and scheduled monitoring.
+- 🧩 GitHub integration for connecting repositories and organizing application monitors.
+
+**Tech stack:** Next.js, TypeScript, Node.js, NestJS, Prisma, PostgreSQL, Redis, BullMQ, and GitHub integration.
 
 ---
 
 ### 🛠️ Skills & Tools
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Backend:** Node.js, GraphQL, ExpressJs, NestJs, Java
-- **Testing:** Jest, React Testing Library  
-- **Design Systems:** Storybook, TailwindCSS  
-- **Other Tools:** Git, AWS CLI
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI
+- **Backend:** Node.js, NestJS, Express.js, REST APIs, GraphQL, Java
+- **Databases:** PostgreSQL, MongoDB, Prisma ORM
+- **AI Engineering:** LLM-powered applications, AI integration, retrieval-based systems
+- **Testing:** Jest, React Testing Library
+- **Infrastructure & DevOps:** AWS, Docker, Redis, GitHub Actions, Vercel
+- **Design Systems:** Storybook, Figma
+- **Other Tools:** Git, Linux, AWS CLI
 
 ---
 
@@ -137,13 +176,16 @@ Email: [morenikeoyewole.o@gmail.com](mailto:morenikeoyewole.o@gmail.com)
 ---
 
 ### 💼 Hire or Collaborate
-Looking for a full stack engineer or AI enthusiast to join your project or team?  
+
+Looking for a full-stack engineer who enjoys building products, solving complex problems, and exploring AI-powered solutions?
+
 📬 [Let's talk](mailto:morenikeoyewole.o@gmail.com)
 
 ---
 
 ### 🎶 Fun Fact
-I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music fuels my creativity.
+
+I'm a multi-instrumentalist! Whether it's the piano, guitar, or drums, music fuels my creativity.
 
 ---
 
@@ -155,27 +197,25 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
       <h3 align="center">⏱ WakaTime — Coding Activity</h3>
       <p align="center"><em>Tracking my coding rhythm!</em></p>
       <div align="center">
-     <figure>
-  <img src="https://wakatime.com/share/@mo_renike/211c7e79-c099-48a7-bfee-bb14715ff363.svg" alt="WakaTime Stats" />
-</figure>
-<figure>
-  <img src="https://wakatime.com/share/@mo_renike/e4b446a7-dd0b-4999-b47b-03067601fec0.svg" alt="WakaTime Stats" />
-</figure>
+        <figure>
+          <img src="https://wakatime.com/share/@mo_renike/211c7e79-c099-48a7-bfee-bb14715ff363.svg" alt="WakaTime Stats" />
+        </figure>
+        <figure>
+          <img src="https://wakatime.com/share/@mo_renike/e4b446a7-dd0b-4999-b47b-03067601fec0.svg" alt="WakaTime Stats" />
+        </figure>
       </div>
     </td>
- <td valign="top" width="50%">
-  <h3 align="center">🎧 Currently Vibing</h3>
-  <p align="center"><em>What I'm listening to right now</em></p>
-    <div align="center">
+    <td valign="top" width="50%">
+      <h3 align="center">🎧 Currently Vibing</h3>
+      <p align="center"><em>What I'm listening to right now</em></p>
+      <div align="center">
         <a href="https://open.spotify.com/user/31wijinrxmdrtem5hlcsm6lgbarq" target="_blank">
           <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wijinrxmdrtem5hlcsm6lgbarq" alt="Spotify Recently Played" width="100%" />
         </a>
       </div>
-</td>
+    </td>
   </tr>
 </table>
-
-
 
 ### 📊 GitHub Stats
 
@@ -186,6 +226,7 @@ I’m a multi-instrumentalist! Whether it’s the piano, guitar, or drums, music
 ---
 
 ### ☕ Support Me
+
 <p>
   <a href="https://www.buymeacoffee.com/morenike">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
