@@ -1,4 +1,4 @@
-![Morenike Oyewole - Software Engineer Banner](github-header.png)
+![Morenike Oyewole - Software Engineer Banner](banner.png)
 
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mo
 
